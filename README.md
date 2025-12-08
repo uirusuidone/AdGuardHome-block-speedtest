@@ -1,0 +1,1 @@
+# AdGuardHome-block-speedtest
